@@ -29,5 +29,3 @@ before_install:
 
 script:
   - cd build
-  - ./configure
-  - make all test
