@@ -3,7 +3,8 @@ language: c++
 branches:
   only:
   - master
-  - 2016-URNext
+  - pal-test-cb
+  - pal-test-cb1
 
 dist: trusty
 
